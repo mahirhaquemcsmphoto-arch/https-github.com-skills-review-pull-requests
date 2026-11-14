@@ -1,1 +1,1 @@
-# https-github.com-skills-review-pull-requests
+review-pull-requests
